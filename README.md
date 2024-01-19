@@ -1,2 +1,2 @@
 # SD202402
-Software Design (January, 2024) sample code
+Software Design (Febrary, 2024) sample code
